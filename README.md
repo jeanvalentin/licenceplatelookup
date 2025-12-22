@@ -1,2 +1,236 @@
-# licenceplatelookup
-A collection of resources to obtain information from licence plates
+# Licence plate lookup
+
+## 🇦🇺 Australia
+- New South Wales official https://check-registration.service.nsw.gov.au/
+- Queensland official https://www.service.transport.qld.gov.au/checkrego/application/VehicleSearch.xhtml?dswid=-5509
+- Western Australia official https://online.transport.wa.gov.au/webExternal/registration/
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckAustralia
+
+## 🇦🇹 Austria
+- insurance https://vvonet.vvo.at/vvonet_versichererauskunft
+- vignette https://evidenz.asfinag.at/en/
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckAustria
+
+## 🇧🇪 Belgium
+- official https://myvehiclemyplate.mobilit.fgov.be/
+- insurance https://www.fcgb-bgwf.be/id/login_ic.php
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckBelgium
+
+## 🇧🇦 Bosnia and Herzegovina
+- insurance https://www.bzkbih.ba/en/provjera-osiguranja
+
+## 🇧🇬 Bulgaria
+- insurance https://www.guaranteefund.org/en/information-center/services/motor-third-party-liability-insurance-check
+
+## 🇨🇦 Canada
+- https://secure.carfax.com/creditCard.cfx?plate=PLATE&usState=ON
+
+use VPN in Canada, inspect POST request to vehicleDataByPlateState, works for (BC, ON,) does not work for (NL, QC,)
+
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckCanada
+
+## 🇭🇷 Croatia
+- https://provjeravozila.com.hr/en
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckCroatia
+
+## 🇨🇿 Czechia
+- https://auto-info.gratis/en/
+- vignette https://edalnice.cz/en
+- insurance https://ic.ckp.cz/ICwww/servlet?_page=searchSPZ&lngID=2
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckCzechRepublic
+
+## 🇩🇰 Denmark
+- https://www.tjekbil.dk/
+- official https://motorregister.skat.dk/dmr-kerne/koeretoejdetaljer/visKoeretoej
+- https://auto-info.gratis/en/
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckDenmark
+
+## 🇪🇪 Estonia
+- official https://eteenindus.mnt.ee/public/soidukTaustakontroll.jsf?lang=en
+- insurance https://vs.lkf.ee/pls/xlk/!sysadm.ic_insurance_cover_pkt.show_form?p_purpose=CLAIM&p_lang=ENG
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckEstonia
+
+## 🇫🇮 Finland
+- insurance https://www.claimsic.fi
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckFinland
+
+## 🇫🇷 France
+- https://immatriculation-auto.info/
+- https://siv-auto.fr/
+- https://auto-info.gratis/en/
+- https://www.carter-cash.com/pieces-auto/
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckFrance
+
+## 🇮🇸 Iceland
+- official https://island.is/en/information-from-vehicle-registrar
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckIceland
+
+## 🇮🇩 Indonesia
+- https://e-samsat.id/
+- West Java official https://bapenda.jabarprov.go.id/infopkb/
+
+## 🇮🇪 Ireland
+- https://www.cartell.ie/
+- https://www.motorcheck.ie/
+- https://www.myvehicle.ie/report/free
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckIreland
+
+## 🇮🇲 Isle of Man
+- official https://services.gov.im/service/VehicleSearch
+
+## 🇮🇱 Israel
+- https://autoboom.co.il/en/check-car
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckIsrael
+
+## 🇮🇹 Italy
+- https://www.auto-doc.it/
+- https://auto-info.gratis/en/
+- https://www.carfax.eu/it
+- https://www.infotarga.com/
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckItaly
+
+## 🇯🇪 Jersey
+- official https://vehicle-search.gov.je/
+
+## 🇰🇬 Kyrgyzstan
+- official https://portal.tunduk.kg/public_services/opisanie/207
+- https://m.mashina.kg/en/carcheck/
+
+## 🇱🇻 Latvia
+- insurance https://services.ltab.lv/en/RespInsurer
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckLatvia
+
+## 🇱🇧 Lebanon
+- official https://www.carplatelebanon.com/
+
+## 🇱🇹 Lithuania
+- insurance https://www.cab.lt/en/
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckLithuania
+
+## 🇲🇾 Malaysia
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckMalaysia
+- latest number plates https://jpj.my/JPJ_Latest_Number_Plates.htm
+
+## 🇲🇩 Moldova
+- https://infocar.md/
+
+## 🇲🇳 Mongolia
+- official https://smartcar.mn/home
+
+## 🇳🇱 Netherlands
+- https://finnik.nl/
+- official https://ovi.rdw.nl/
+- https://auto-info.gratis/en/
+- https://www.carfax.eu/nl
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckNetherlands
+
+## 🇳🇴 Norway
+- official https://www.vegvesen.no/en/vehicles/buy-and-sell/vehicle-information/check-vehicle-information/
+- https://auto-info.gratis/en/
+- https://www.car.info/en-se/search-car-registry
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckNorway
+
+## 🇳🇿 New Zealand
+- https://www.carjam.co.nz/
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckNewZealand
+
+## 🇵🇱 Poland
+- https://auto-info.gratis/en/
+- insurance https://www.ufg.pl/infoportal/faces/pages_home-page/Page_4d98135c_14e2b8ace27__7ff1/Pagee0e22f3_14efe6adc05__7ff1/Page4d024e07_14f0a824115__7ff6
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckPoland
+
+## 🇵🇹 Portugal
+- https://auto-info.gratis/en/
+- https://www.mister-auto.pt/
+- insurance https://www.consumidor.asf.com.pt/servi%C3%A7os/verificar-seguro-atrav%C3%A9s-da-matr%C3%ADcula
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckPortugal
+
+## 🇷🇴 Romania
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckRomania
+- insurance https://www.aida.info.ro/en/polite-rca
+
+## 🇷🇺 Russia
+- https://www.nomerogram.ru/
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckRussia
+
+## 🇸🇬 Singapore
+- road tax https://vrl.lta.gov.sg/lta/vrl/action/pubfunc?ID=EnquireRoadTaxExpDtProxy
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckSingapore
+
+## 🇸🇰 Slovakia
+- official https://www.stkonline.sk/overenie-technickej-kontroly-vozidla
+- insurance https://www.skp.sk/en/search-the-mtpl-insurer/
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckSlovakia
+
+## 🇸🇮 Slovenia
+- insurance https://infocenter.zav-zdruzenje.si/infocenter-en/infocenter-search-en
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckSlovenia
+
+## 🇪🇸 Spain
+- https://www.historialvehiculo.com/informes-gratis-vehiculos
+- https://auto-info.gratis/en/
+- https://www.carter-cash.es/piezas-auto/
+- https://www.carfax.eu/es
+- date https://www.dieselogasolina.com/fecha-de-matriculacion-de-vehiculos-por-matricula.html
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckSpain
+
+## 🇸🇪 Sweden
+- official https://fordon-fu-regnr.transportstyrelsen.se/
+- https://www.car.info/en-se/search-car-registry
+- https://biluppgifter.se/
+- https://auto-info.gratis/en/
+- https://www.carfax.eu/sv
+- insurance https://www.tff.se/en/For-insurance-companies/Insurance-check/
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckSweden
+
+## 🇨🇭 Switzerland
+- official https://www.nbi-ngf.ch/fr/gestion-des-sinistres/europe/renseignements-plaques-dimmatriculation/
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckSwitzerland
+
+## 🇬🇧 United Kingdom
+- official https://vehicleenquiry.service.gov.uk/
+- https://checkhistory.uk/
+- https://vehiclesmart.com/
+- partial number plate https://www.partialnumberplate.co.uk/
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=Check
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckMotorBikeUK
+
+## 🇺🇦 Ukraine
+- https://ua.carplates.app/en
+- https://auto-info.gratis/en/
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckUkraine
+
+## 🇺🇸 USA
+- https://www.faxvin.com/license-plate-lookup
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckUSA
+
+## ☂️ Regcheck
+- 🇦🇱 https://www.regcheck.org.uk/api/reg.asmx?op=CheckAlbania
+- 🇦🇷 https://www.regcheck.org.uk/api/reg.asmx?op=CheckArgentina
+- 🇧🇴 https://www.regcheck.org.uk/api/reg.asmx?op=CheckBolivia
+- 🇧🇷 https://www.regcheck.org.uk/api/reg.asmx?op=CheckBrazil
+- 🇨🇱 https://www.regcheck.org.uk/api/reg.asmx?op=CheckChile
+- 🇨🇳 https://www.regcheck.org.uk/api/reg.asmx?op=CheckChina
+- 🇨🇴 https://www.regcheck.org.uk/api/reg.asmx?op=CheckColombia
+- 🇨🇷 https://www.regcheck.org.uk/api/reg.asmx?op=CheckCostaRica
+- 🇨🇾 https://www.regcheck.org.uk/api/reg.asmx?op=CheckCyprus
+- 🇪🇨 https://www.regcheck.org.uk/api/reg.asmx?op=CheckEcuador
+- 🇬🇷 https://www.regcheck.org.uk/api/reg.asmx?op=CheckGreece
+- 🇭🇺 https://www.regcheck.org.uk/api/reg.asmx?op=CheckHungary
+- 🇮🇳 https://www.regcheck.org.uk/api/reg.asmx?op=CheckIndia
+- 🇲🇹 https://www.regcheck.org.uk/api/reg.asmx?op=CheckMalta
+- 🇲🇽 https://www.regcheck.org.uk/api/reg.asmx?op=CheckMexico
+- 🇳🇬 https://www.regcheck.org.uk/api/reg.asmx?op=CheckNigeria
+- 🇴🇲 https://www.regcheck.org.uk/api/reg.asmx?op=CheckOman
+- 🇵🇰 https://www.regcheck.org.uk/api/reg.asmx?op=CheckPakistan
+- 🇵🇪 https://www.regcheck.org.uk/api/reg.asmx?op=CheckPeru
+- 🇿🇦 https://www.regcheck.org.uk/api/reg.asmx?op=CheckSouthAfrica
+- 🇱🇰 https://www.regcheck.org.uk/api/reg.asmx?op=CheckSriLanka
+- 🇹🇳 https://www.regcheck.org.uk/api/reg.asmx?op=CheckTunisia
+- 🇦🇪 https://www.regcheck.org.uk/api/reg.asmx?op=CheckUAE
+- regcheck main https://www.regcheck.org.uk/Dashboard.aspx
+- regcheck API list https://www.regcheck.org.uk/api/reg.asmx
+
+## LICENCE
+
+do whatever you want
