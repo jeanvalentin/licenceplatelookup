@@ -145,6 +145,7 @@ use VPN in Canada, inspect POST request to vehicleDataByPlateState, works for (B
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckPoland
 
 ## 🇵🇹 Portugal
+- https://verificarmatricula.pt/en
 - https://auto-info.gratis/en/
 - https://www.mister-auto.pt/
 - insurance https://www.consumidor.asf.com.pt/servi%C3%A7os/verificar-seguro-atrav%C3%A9s-da-matr%C3%ADcula
