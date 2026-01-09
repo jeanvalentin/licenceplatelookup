@@ -53,6 +53,7 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 - https://www.tjekbil.dk/
 - official https://motorregister.skat.dk/dmr-kerne/koeretoejdetaljer/visKoeretoej
 - https://www.nummerplade.net/
+- https://www.bilbasen.dk/nummerpladetjek
 - https://auto-info.gratis/en/
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckDenmark
 
@@ -67,6 +68,7 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 
 ## 🇫🇷 France
 - https://immatriculation-auto.info/
+- https://www.largus.fr/cote/immatriculation/
 - https://siv-auto.fr/
 - https://auto-info.gratis/en/
 - https://www.carter-cash.com/pieces-auto/
@@ -105,6 +107,7 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 
 ## 🇮🇹 Italy
 - https://veicolo.app/cerca
+- https://quotazioni.quattroruote.it/
 - https://auto-info.gratis/en/
 - https://www.auto-doc.it/
 - https://www.carter-cash.it/ricambi-auto/
@@ -163,6 +166,7 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 - https://auto-info.gratis/en/
 - official https://moj.gov.pl/nforms/engine/ng/index?xFormsAppName=NormaEuro
 - insurance https://www.ufg.pl/infoportal/faces/pages_home-page/Page_4d98135c_14e2b8ace27__7ff1/Pagee0e22f3_14efe6adc05__7ff1/Page4d024e07_14f0a824115__7ff6
+- restricted https://www.gov.pl/web/cepik
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckPoland
 
 ## 🇵🇹 Portugal
@@ -170,6 +174,7 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 - https://auto-info.gratis/en/
 - https://www.mister-auto.pt/
 - https://infomatricula.pt/
+- official https://www.automovelonline.mj.pt/AutoOnlineProd/FrontOfficeController?action=validaMatricula&url=FrontOfficeController%3Faction%3Dpedidocertidao&contr=FrontOfficeController
 - insurance https://www.consumidor.asf.com.pt/servi%C3%A7os/verificar-seguro-atrav%C3%A9s-da-matr%C3%ADcula
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckPortugal
 
@@ -220,6 +225,7 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 - official https://vehicleenquiry.service.gov.uk/
 - https://checkhistory.uk/
 - https://vehiclesmart.com/
+- https://www.mycarcheck.com/
 - partial number plate https://www.partialnumberplate.co.uk/
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=Check
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckMotorBikeUK
