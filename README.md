@@ -1,9 +1,14 @@
 # Licence plate lookup
 
 ## 🇦🇺 Australia
-- New South Wales official https://check-registration.service.nsw.gov.au/
-- Queensland official https://www.service.transport.qld.gov.au/checkrego/application/VehicleSearch.xhtml?dswid=-5509
-- Western Australia official https://online.transport.wa.gov.au/webExternal/registration/
+- ACT official https://rego.act.gov.au/regosoawicket/public/reg/FindRegistrationPage?0
+- NSW official https://check-registration.service.nsw.gov.au/
+- NT official https://nt.gov.au/driving/rego/existing-nt-registration/rego-check
+- QLD official https://www.service.transport.qld.gov.au/checkrego/application/VehicleSearch.xhtml?dswid=-5509
+- SA official https://account.ezyreg.sa.gov.au/account/check-registration.htm – access through a VPN in Australia
+- TAS official https://www.transport.tas.gov.au/rego-status/search
+- VIC official https://service.vic.gov.au/find-services/transport-and-driving/registration/check-registration/vehicle
+- WA official https://online.transport.wa.gov.au/webExternal/registration/
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckAustralia
 
 ## 🇦🇹 Austria
@@ -25,7 +30,7 @@
 ## 🇨🇦 Canada
 - https://secure.carfax.com/creditCard.cfx?plate=PLATE&usState=ON
 
-use VPN in Canada, inspect POST request to vehicleDataByPlateState, works for (BC, ON,) does not work for (NL, QC,)
+use VPN in Canada, inspect POST request to vehicleDataByPlateState, works for (BC, ON, tbc) does not work for (NL, QC, tbc)
 
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckCanada
 
@@ -124,6 +129,7 @@ use VPN in Canada, inspect POST request to vehicleDataByPlateState, works for (B
 ## 🇳🇱 Netherlands
 - https://finnik.nl/
 - official https://ovi.rdw.nl/
+- https://www.kentekencheck.nl/
 - https://auto-info.gratis/en/
 - https://www.carfax.eu/nl
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckNetherlands
@@ -136,6 +142,7 @@ use VPN in Canada, inspect POST request to vehicleDataByPlateState, works for (B
 
 ## 🇳🇿 New Zealand
 - https://www.carjam.co.nz/
+- official https://transact.nzta.govt.nz/transactions/CheckExpiry/step2
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckNewZealand
 
 ## 🇵🇱 Poland
