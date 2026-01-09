@@ -1,11 +1,16 @@
 # Licence plate lookup
 
+## 🇦🇷 Argentina
+- official https://www.dnrpa.gov.ar/portal_dnrpa/radicacion2.php
+- https://www.datacar.com.ar/
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckArgentina
+
 ## 🇦🇺 Australia
 - ACT official https://rego.act.gov.au/regosoawicket/public/reg/FindRegistrationPage?0
 - NSW official https://check-registration.service.nsw.gov.au/
 - NT official https://nt.gov.au/driving/rego/existing-nt-registration/rego-check
 - QLD official https://www.service.transport.qld.gov.au/checkrego/application/VehicleSearch.xhtml?dswid=-5509
-- SA official https://account.ezyreg.sa.gov.au/account/check-registration.htm – access through a VPN in Australia
+- SA official https://account.ezyreg.sa.gov.au/account/check-registration.htm – VPN in Australia required
 - TAS official https://www.transport.tas.gov.au/rego-status/search
 - VIC official https://service.vic.gov.au/find-services/transport-and-driving/registration/check-registration/vehicle
 - WA official https://online.transport.wa.gov.au/webExternal/registration/
@@ -28,9 +33,9 @@
 - insurance https://www.guaranteefund.org/en/information-center/services/motor-third-party-liability-insurance-check
 
 ## 🇨🇦 Canada
-- https://secure.carfax.com/creditCard.cfx?plate=PLATE&usState=ON
+- https://secure.carfax.com/creditCard.cfx?plate=PLATE&usState=ON – VPN required
 
-use VPN in Canada, inspect POST request to vehicleDataByPlateState, works for (BC, ON, tbc) does not work for (NL, QC, tbc)
+inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, tbc) does not work for (NL, QC, tbc)
 
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckCanada
 
@@ -47,6 +52,7 @@ use VPN in Canada, inspect POST request to vehicleDataByPlateState, works for (B
 ## 🇩🇰 Denmark
 - https://www.tjekbil.dk/
 - official https://motorregister.skat.dk/dmr-kerne/koeretoejdetaljer/visKoeretoej
+- https://www.nummerplade.net/
 - https://auto-info.gratis/en/
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckDenmark
 
@@ -69,6 +75,10 @@ use VPN in Canada, inspect POST request to vehicleDataByPlateState, works for (B
 ## 🇬🇷 Greece
 - official https://dilosi.services.gov.gr/templates/VEHICLE-INSURANCE/create
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckGreece
+
+## 🇭🇺 Hungary
+- restricted https://magyarorszag.hu/jszp_szuf
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckHungary
 
 ## 🇮🇸 Iceland
 - official https://island.is/en/information-from-vehicle-registrar
@@ -220,11 +230,11 @@ use VPN in Canada, inspect POST request to vehicleDataByPlateState, works for (B
 
 ## 🇺🇸 USA
 - https://www.faxvin.com/license-plate-lookup
+- https://www.oreillyauto.com/ – VPN required
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckUSA
 
 ## ☂️ Regcheck
 - 🇦🇱 https://www.regcheck.org.uk/api/reg.asmx?op=CheckAlbania
-- 🇦🇷 https://www.regcheck.org.uk/api/reg.asmx?op=CheckArgentina
 - 🇧🇴 https://www.regcheck.org.uk/api/reg.asmx?op=CheckBolivia
 - 🇧🇷 https://www.regcheck.org.uk/api/reg.asmx?op=CheckBrazil
 - 🇨🇱 https://www.regcheck.org.uk/api/reg.asmx?op=CheckChile
@@ -233,7 +243,6 @@ use VPN in Canada, inspect POST request to vehicleDataByPlateState, works for (B
 - 🇨🇷 https://www.regcheck.org.uk/api/reg.asmx?op=CheckCostaRica
 - 🇨🇾 https://www.regcheck.org.uk/api/reg.asmx?op=CheckCyprus
 - 🇪🇨 https://www.regcheck.org.uk/api/reg.asmx?op=CheckEcuador
-- 🇭🇺 https://www.regcheck.org.uk/api/reg.asmx?op=CheckHungary
 - 🇮🇳 https://www.regcheck.org.uk/api/reg.asmx?op=CheckIndia
 - 🇲🇹 https://www.regcheck.org.uk/api/reg.asmx?op=CheckMalta
 - 🇲🇽 https://www.regcheck.org.uk/api/reg.asmx?op=CheckMexico
