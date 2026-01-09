@@ -63,6 +63,7 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckEstonia
 
 ## 🇫🇮 Finland
+- https://www.mister-auto.fi/
 - insurance https://www.claimsic.fi
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckFinland
 
