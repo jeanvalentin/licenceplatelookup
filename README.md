@@ -89,11 +89,14 @@ use VPN in Canada, inspect POST request to vehicleDataByPlateState, works for (B
 
 ## 🇮🇱 Israel
 - https://autoboom.co.il/en/check-car
+- https://www.find-car.co.il/ – a VPN may be required
+- https://meshumeshet.com/ to be confirmed
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckIsrael
 
 ## 🇮🇹 Italy
-- https://www.auto-doc.it/
+- https://veicolo.app/cerca
 - https://auto-info.gratis/en/
+- https://www.auto-doc.it/
 - https://www.carfax.eu/it
 - https://www.infotarga.com/
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckItaly
@@ -199,6 +202,7 @@ use VPN in Canada, inspect POST request to vehicleDataByPlateState, works for (B
 
 ## 🇨🇭 Switzerland
 - official https://www.nbi-ngf.ch/fr/gestion-des-sinistres/europe/renseignements-plaques-dimmatriculation/
+- https://halterauskunft.ch/
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckSwitzerland
 
 ## 🇬🇧 United Kingdom
