@@ -72,6 +72,7 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 - https://siv-auto.fr/
 - https://auto-info.gratis/en/
 - https://www.carter-cash.com/pieces-auto/
+- https://www.mister-auto.com/
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckFrance
 
 ## 🇬🇷 Greece
