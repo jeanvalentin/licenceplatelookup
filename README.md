@@ -107,6 +107,7 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 - https://veicolo.app/cerca
 - https://auto-info.gratis/en/
 - https://www.auto-doc.it/
+- https://www.carter-cash.it/ricambi-auto/
 - https://www.carfax.eu/it
 - https://www.infotarga.com/
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckItaly
