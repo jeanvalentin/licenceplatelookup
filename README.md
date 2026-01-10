@@ -54,6 +54,7 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 - official https://motorregister.skat.dk/dmr-kerne/koeretoejdetaljer/visKoeretoej
 - https://www.nummerplade.net/
 - https://www.bilbasen.dk/nummerpladetjek
+- https://www.mister-auto.dk/
 - https://auto-info.gratis/en/
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckDenmark
 
@@ -96,6 +97,7 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 - https://www.cartell.ie/
 - https://www.motorcheck.ie/
 - https://www.myvehicle.ie/report/free
+- https://www.mister-auto.ie/
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckIreland
 
 ## 🇮🇲 Isle of Man
@@ -113,6 +115,7 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 - https://auto-info.gratis/en/
 - https://www.auto-doc.it/
 - https://www.carter-cash.it/ricambi-auto/
+- https://www.mister-auto.it/
 - https://www.carfax.eu/it
 - https://www.infotarga.com/
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckItaly
@@ -149,6 +152,7 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 - https://finnik.nl/
 - official https://ovi.rdw.nl/
 - https://www.kentekencheck.nl/
+- https://www.mister-auto.nl/
 - https://auto-info.gratis/en/
 - https://www.carfax.eu/nl
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckNetherlands
@@ -157,6 +161,7 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 - official https://www.vegvesen.no/en/vehicles/buy-and-sell/vehicle-information/check-vehicle-information/
 - https://auto-info.gratis/en/
 - https://www.car.info/en-se/search-car-registry
+- https://www.mister-auto.no/
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckNorway
 
 ## 🇳🇿 New Zealand
@@ -205,6 +210,7 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 - https://www.historialvehiculo.com/informes-gratis-vehiculos
 - https://auto-info.gratis/en/
 - https://www.carter-cash.es/piezas-auto/
+- https://www.mister-auto.es/
 - https://www.carfax.eu/es
 - date https://www.dieselogasolina.com/fecha-de-matriculacion-de-vehiculos-por-matricula.html
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckSpain
@@ -213,6 +219,7 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 - official https://fordon-fu-regnr.transportstyrelsen.se/
 - https://www.car.info/en-se/search-car-registry
 - https://biluppgifter.se/
+- https://www.mister-auto.se/
 - https://auto-info.gratis/en/
 - https://www.carfax.eu/sv
 - insurance https://www.tff.se/en/For-insurance-companies/Insurance-check/
