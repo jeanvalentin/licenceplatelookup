@@ -55,6 +55,7 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 - https://www.nummerplade.net/
 - https://www.bilbasen.dk/nummerpladetjek
 - https://www.mister-auto.dk/
+- https://www.autodoc.dk/
 - https://auto-info.gratis/en/
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckDenmark
 
@@ -65,6 +66,7 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 
 ## 🇫🇮 Finland
 - https://www.mister-auto.fi/
+- https://www.autodoc.fi/
 - insurance https://www.claimsic.fi
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckFinland
 
@@ -153,6 +155,7 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 - official https://ovi.rdw.nl/
 - https://www.kentekencheck.nl/
 - https://www.mister-auto.nl/
+- https://www.autodoc.nl/
 - https://auto-info.gratis/en/
 - https://www.carfax.eu/nl
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckNetherlands
@@ -162,6 +165,7 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 - https://auto-info.gratis/en/
 - https://www.car.info/en-se/search-car-registry
 - https://www.mister-auto.no/
+- https://www.autodoc.co.no/
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckNorway
 
 ## 🇳🇿 New Zealand
@@ -180,8 +184,9 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 - https://verificarmatricula.pt/en
 - https://auto-info.gratis/en/
 - https://www.mister-auto.pt/
-- https://infomatricula.pt/
+- https://www.auto-doc.pt/
 - official https://www.automovelonline.mj.pt/AutoOnlineProd/FrontOfficeController?action=validaMatricula&url=FrontOfficeController%3Faction%3Dpedidocertidao&contr=FrontOfficeController
+- https://infomatricula.pt/
 - insurance https://www.consumidor.asf.com.pt/servi%C3%A7os/verificar-seguro-atrav%C3%A9s-da-matr%C3%ADcula
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckPortugal
 
@@ -208,9 +213,10 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 
 ## 🇪🇸 Spain
 - https://www.historialvehiculo.com/informes-gratis-vehiculos
-- https://auto-info.gratis/en/
 - https://www.carter-cash.es/piezas-auto/
 - https://www.mister-auto.es/
+- https://www.autodoc.es/
+- https://auto-info.gratis/en/
 - https://www.carfax.eu/es
 - date https://www.dieselogasolina.com/fecha-de-matriculacion-de-vehiculos-por-matricula.html
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckSpain
@@ -221,6 +227,7 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 - https://biluppgifter.se/
 - https://www.mister-auto.se/
 - https://auto-info.gratis/en/
+- https://www.autodoc.se/
 - https://www.carfax.eu/sv
 - insurance https://www.tff.se/en/For-insurance-companies/Insurance-check/
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckSweden
@@ -235,6 +242,7 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 - https://checkhistory.uk/
 - https://vehiclesmart.com/
 - https://www.mycarcheck.com/
+- https://www.autodoc.co.uk/
 - partial number plate https://www.partialnumberplate.co.uk/
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=Check
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckMotorBikeUK
