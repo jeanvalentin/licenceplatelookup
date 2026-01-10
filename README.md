@@ -255,6 +255,7 @@ inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, 
 ## 🇺🇸 USA
 - https://www.faxvin.com/license-plate-lookup
 - https://www.oreillyauto.com/ – VPN required
+- https://secure.carfax.com/creditCard.cfx?plate=PLATE&usState=MA – VPN required, inspect response to POST request to vehicleDataByPlateState
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckUSA
 
 ## ☂️ Regcheck
