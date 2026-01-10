@@ -34,7 +34,7 @@
 
 ## 🇨🇦 Canada
 - BC, NS, NT, ON, SK https://secure.carfax.com/creditCard.cfx?plate=PLATE&usState=ON – VPN required, inspect response to POST request to vehicleDataByPlateState
-- NL, NU, YT: untested
+- NL, NU, YT: not enough data
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckCanada
 
 ## 🇭🇷 Croatia
