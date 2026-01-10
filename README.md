@@ -33,10 +33,7 @@
 - insurance https://www.guaranteefund.org/en/information-center/services/motor-third-party-liability-insurance-check
 
 ## 🇨🇦 Canada
-- https://secure.carfax.com/creditCard.cfx?plate=PLATE&usState=ON – VPN required
-
-inspect response to POST request to vehicleDataByPlateState, works for (BC, ON, tbc) does not work for (NL, QC, tbc)
-
+- BC, NS, NT, ON, SK https://secure.carfax.com/creditCard.cfx?plate=PLATE&usState=ON – VPN required, inspect response to POST request to vehicleDataByPlateState
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckCanada
 
 ## 🇭🇷 Croatia
