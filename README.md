@@ -113,7 +113,7 @@
 ## 🇮🇱 Israel
 - https://autoboom.co.il/en/check-car
 - https://www.find-car.co.il/ – a VPN may be required
-- https://meshumeshet.com/ to be confirmed
+- https://meshumeshet.com/
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckIsrael
 
 ## 🇮🇹 Italy
