@@ -2,6 +2,7 @@
 
 ## 🇦🇲 Armenia
 - availability https://roadpolice.am/en/plate-number-search
+- availability 00 and 000 https://auction.mia.gov.am/en/plate-number-search
 
 ## 🇦🇷 Argentina
 - official https://www.dnrpa.gov.ar/portal_dnrpa/radicacion2.php
