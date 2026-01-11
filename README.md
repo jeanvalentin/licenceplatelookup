@@ -1,7 +1,7 @@
 # Licence plate lookup
 
 ## 🇦🇲 Armenia
-- check availability https://roadpolice.am/en/plate-number-search
+- availability https://roadpolice.am/en/plate-number-search
 
 ## 🇦🇷 Argentina
 - official https://www.dnrpa.gov.ar/portal_dnrpa/radicacion2.php
