@@ -135,6 +135,7 @@
 - https://m.mashina.kg/en/carcheck/
 
 ## 🇱🇻 Latvia
+- insurance https://services.ltab.lv/en/CheckOcta
 - insurance https://services.ltab.lv/en/RespInsurer
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckLatvia
 
@@ -196,8 +197,8 @@
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckPortugal
 
 ## 🇷🇴 Romania
-- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckRomania
 - insurance https://www.aida.info.ro/en/polite-rca
+- regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckRomania
 
 ## 🇷🇺 Russia
 - https://www.nomerogram.ru/
