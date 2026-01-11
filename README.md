@@ -81,6 +81,9 @@
 - https://www.mister-auto.com/
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckFrance
 
+## 🇩🇪 Germany
+- availability https://wunschkennzeichen-reservieren.jetzt/
+
 ## 🇬🇷 Greece
 - official https://dilosi.services.gov.gr/templates/VEHICLE-INSURANCE/create
 - regcheck https://www.regcheck.org.uk/api/reg.asmx?op=CheckGreece
